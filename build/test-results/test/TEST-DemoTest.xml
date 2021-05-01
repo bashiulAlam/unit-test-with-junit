@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="DemoTest" tests="32" skipped="0" failures="0" errors="0" timestamp="2021-05-01T10:48:26" hostname="LAPTOP-HMFUJK93" time="0.037">
+  <properties/>
+  <testcase name="mainMethodValidTriangleTest_1" classname="DemoTest" time="0.013"/>
+  <testcase name="checkInvalidTriangle_1" classname="DemoTest" time="0.0"/>
+  <testcase name="checkInvalidTriangle_2" classname="DemoTest" time="0.0"/>
+  <testcase name="checkInvalidTriangle_3" classname="DemoTest" time="0.0"/>
+  <testcase name="checkInvalidTriangle_4" classname="DemoTest" time="0.0"/>
+  <testcase name="checkInvalidTriangle_5" classname="DemoTest" time="0.0"/>
+  <testcase name="checkInvalidTriangle_6" classname="DemoTest" time="0.0"/>
+  <testcase name="checkInvalidTriangle_7" classname="DemoTest" time="0.0"/>
+  <testcase name="checkInvalidTriangle_8" classname="DemoTest" time="0.0"/>
+  <testcase name="checkInvalidTriangle_9" classname="DemoTest" time="0.001"/>
+  <testcase name="checkEquilateralTriangle_1" classname="DemoTest" time="0.0"/>
+  <testcase name="checkEquilateralTriangle_2" classname="DemoTest" time="0.0"/>
+  <testcase name="mainMethodIsoscelesTriangleTest" classname="DemoTest" time="0.001"/>
+  <testcase name="checkInvalidTriangle_10" classname="DemoTest" time="0.0"/>
+  <testcase name="checkInvalidTriangle_11" classname="DemoTest" time="0.0"/>
+  <testcase name="mainMethodRightTriangleTest" classname="DemoTest" time="0.002"/>
+  <testcase name="mainMethodEquilateralTriangleTest" classname="DemoTest" time="0.001"/>
+  <testcase name="mainMethodInvalidTriangleTest_10" classname="DemoTest" time="0.002"/>
+  <testcase name="checkRightTriangle" classname="DemoTest" time="0.0"/>
+  <testcase name="mainMethodInvalidTriangleTest_1" classname="DemoTest" time="0.001"/>
+  <testcase name="mainMethodInvalidTriangleTest_2" classname="DemoTest" time="0.001"/>
+  <testcase name="mainMethodInvalidTriangleTest_3" classname="DemoTest" time="0.001"/>
+  <testcase name="mainMethodInvalidTriangleTest_4" classname="DemoTest" time="0.002"/>
+  <testcase name="mainMethodInvalidTriangleTest_5" classname="DemoTest" time="0.001"/>
+  <testcase name="mainMethodInvalidTriangleTest_6" classname="DemoTest" time="0.002"/>
+  <testcase name="mainMethodInvalidTriangleTest_7" classname="DemoTest" time="0.001"/>
+  <testcase name="mainMethodInvalidTriangleTest_8" classname="DemoTest" time="0.001"/>
+  <testcase name="mainMethodInvalidTriangleTest_9" classname="DemoTest" time="0.001"/>
+  <testcase name="checkIsoscelesTriangle" classname="DemoTest" time="0.0"/>
+  <testcase name="checkValidTriangle_1" classname="DemoTest" time="0.0"/>
+  <testcase name="checkValidTriangle_2" classname="DemoTest" time="0.0"/>
+  <testcase name="checkValidTriangle_3" classname="DemoTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
